@@ -307,400 +307,340 @@
 				</offset>
 			</connection>
 			<!-- new connections -->
-			<connection group="lgroup-3" name="con_shieldgen_m_lgroup-3-1" tags="medium shield hittable">
+			<connection group="lshieldgroup1" name="con_shieldgen_l_lshieldgroup1-1" tags="large shield hittable">
 				<offset>
-					<position x="0.0" y="-7.327100000000001" z="-106.3702"/>
-					<quaternion qw="1.7320510330969933e-07" qx="-0.0" qy="0.0" qz="-0.999999999999985"/>
+					<position x="-0.0" y="-109.012" z="53.1458"/>
+					<quaternion qw="1.7320510330969933e-07" qx="-0.7071067811865369" qy="0.0" qz="-0.7071067811865369"/>
 				</offset>
 			</connection>
-			<connection group="left-lgroup-2" name="con_shieldgen_m_left-lgroup-2-1" tags="medium shield hittable">
+			<connection group="left-lshieldgroup1" name="con_shieldgen_l_left-lshieldgroup1-1" tags="large shield hittable">
 				<offset>
-					<position x="-54.3987" y="-7.2581999999999995" z="-44.9329"/>
-					<quaternion qw="-0.004485311755494035" qx="0.10333094766803996" qy="0.00030499689388332937" qz="-0.9946368705258094"/>
+					<position x="-131.4507" y="-53.942800000000005" z="-105.4635"/>
+					<quaternion qw="-0.9578022292608246" qx="4.311420898139856e-06" qy="5.748561197519808e-07" qz="-0.2874280598759904"/>
 				</offset>
 			</connection>
-			<connection group="right-lgroup-2" name="con_shieldgen_m_right-lgroup-2-1" tags="medium shield hittable">
+			<connection group="right-lshieldgroup1" name="con_shieldgen_l_right-lshieldgroup1-1" tags="large shield hittable">
 				<offset>
-					<position x="54.3987" y="-7.2581999999999995" z="-44.9329"/>
-					<quaternion qw="-0.004485311755494035" qx="0.10333094766803996" qy="-0.00030499689388332937" qz="0.9946368705258094"/>
+					<position x="131.4507" y="-53.942800000000005" z="-105.4635"/>
+					<quaternion qw="-0.9578022292608246" qx="4.311420898139856e-06" qy="-5.748561197519808e-07" qz="0.2874280598759904"/>
 				</offset>
 			</connection>
-			<connection group="lgroup-2" name="con_shieldgen_m_lgroup-2-1" tags="medium shield hittable">
+			<connection group="mgroup3" name="con_m_turret_mgroup3-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-0.0" y="-57.1347" z="98.6739"/>
-					<quaternion qw="1.7320510330969933e-07" qx="-0.0007559997839594732" qy="-0.0" qz="-0.9999997142321074"/>
+					<position x="0.2593" y="270.9711" z="-81.58720000000001"/>
+					<quaternion qw="-1.0" qx="-0.0" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="left-lgroup-1" name="con_shieldgen_m_left-lgroup-1-1" tags="medium shield hittable">
+			<connection group="mgroup3" name="con_m_turret_mgroup3-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="-12.8492" y="-115.07220000000001" z="65.61580000000001"/>
-					<quaternion qw="-0.6442699449491278" qx="0.07902661137318569" qy="0.006282053477396179" qz="-0.7606783607637504"/>
+					<position x="-0.1954" y="270.971" z="-37.616699999999994"/>
+					<quaternion qw="-1.0" qx="-0.0" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="right-lgroup-1" name="con_shieldgen_m_right-lgroup-1-1" tags="medium shield hittable">
+			<connection group="mgroup3" name="con_m_turret_mgroup3-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="12.8492" y="-115.07220000000001" z="65.61580000000001"/>
-					<quaternion qw="-0.6442699449491278" qx="0.07902661137318569" qy="-0.006282053477396179" qz="0.7606783607637504"/>
+					<position x="0.2591" y="270.971" z="-59.817600000000006"/>
+					<quaternion qw="-1.0" qx="-0.0" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="lgroup-1" name="con_shieldgen_m_lgroup-1-1" tags="medium shield hittable">
+			<connection group="left-lgroup-4" name="con_shieldgen_m_left-lgroup-4-1" tags="medium shield hittable">
 				<offset>
-					<position x="0.0077" y="110.4712" z="194.0694"/>
-					<quaternion qw="-0.999572278493926" qx="-0.029158237156838775" qy="5.023722848554676e-05" qz="0.0022482768040394344"/>
+					<position x="-152.5856" y="-108.1656" z="-168.726"/>
+					<quaternion qw="-0.2299821360080714" qx="9.731948505373573e-07" qy="-1.9463897010747146e-06" qz="0.9731948505373574"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-3" name="con_m_turret_left-mgroup-3-4" tags="turret medium standard hittable">
+			<connection group="right-lgroup-4" name="con_shieldgen_m_right-lgroup-4-1" tags="medium shield hittable">
 				<offset>
-					<position x="-159.95250000000001" y="55.1391" z="-2.2818"/>
-					<quaternion qw="-0.03776334549944417" qx="0.631056516002426" qy="-0.0177833052662586" qz="-0.7746130372007539"/>
+					<position x="152.5856" y="-108.1656" z="-168.726"/>
+					<quaternion qw="-0.2299821360080714" qx="9.731948505373573e-07" qy="1.9463897010747146e-06" qz="-0.9731948505373574"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-3" name="con_m_turret_right-mgroup-3-4" tags="turret medium standard hittable">
+			<connection group="left-lgroup-5" name="con_shieldgen_m_left-lgroup-5-1" tags="medium shield hittable">
 				<offset>
-					<position x="159.95250000000001" y="55.1391" z="-2.2818"/>
-					<quaternion qw="-0.03776334549944417" qx="0.631056516002426" qy="0.0177833052662586" qz="0.7746130372007539"/>
+					<position x="-17.3816" y="186.2223" z="-172.013"/>
+					<quaternion qw="-0.7278218371475652" qx="-0.0" qy="0.0" qz="-0.6857662673033306"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-3" name="con_m_turret_left-mgroup-3-3" tags="turret medium standard hittable">
+			<connection group="right-lgroup-5" name="con_shieldgen_m_right-lgroup-5-1" tags="medium shield hittable">
 				<offset>
-					<position x="-154.94920000000002" y="54.2243" z="21.5491"/>
-					<quaternion qw="-0.036135957736302175" qx="0.6297413295865801" qy="-0.057452442562254714" qz="-0.7738341341738793"/>
+					<position x="17.3816" y="186.2223" z="-172.013"/>
+					<quaternion qw="-0.7278218371475652" qx="-0.0" qy="-0.0" qz="0.6857662673033306"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-3" name="con_m_turret_right-mgroup-3-3" tags="turret medium standard hittable">
+			<connection group="mgroup2" name="con_m_turret_mgroup2-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="154.94920000000002" y="54.2243" z="21.5491"/>
-					<quaternion qw="-0.036135957736302175" qx="0.6297413295865801" qy="0.057452442562254714" qz="0.7738341341738793"/>
+					<position x="-0.2849" y="-114.242" z="304.07989999999995"/>
+					<quaternion qw="0.0018316721808847066" qx="0.002472994185906307" qy="-0.5951576007641778" qz="-0.8036031107016732"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-3" name="con_m_turret_left-mgroup-3-2" tags="turret medium standard hittable">
+			<connection group="mgroup2" name="con_m_turret_mgroup2-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-164.46130000000002" y="64.161" z="-2.0099"/>
-					<quaternion qw="-0.7985442195069088" qx="0.009751970145376362" qy="0.6003110811668321" qz="-0.04311188233764249"/>
+					<position x="-0.1082" y="-131.0489" z="297.7579"/>
+					<quaternion qw="0.0017356723336331811" qx="0.002541994630784052" qy="-0.5639338088557059" qz="-0.8258142557102921"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-3" name="con_m_turret_right-mgroup-3-2" tags="turret medium standard hittable">
+			<connection group="mgroup1" name="con_m_turret_mgroup1-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="164.46130000000002" y="64.161" z="-2.0099"/>
-					<quaternion qw="-0.7985442195069088" qx="0.009751970145376362" qy="-0.6003110811668321" qz="0.04311188233764249"/>
+					<position x="-0.1204" y="114.6199" z="303.9647"/>
+					<quaternion qw="-0.8036043912550974" qx="-0.595158398088683" qy="0.0020431971694129733" qz="0.0015129062640978092"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-3" name="con_m_turret_left-mgroup-3-1" tags="turret medium standard hittable">
+			<connection group="mgroup1" name="con_m_turret_mgroup1-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-158.3073" y="66.3866" z="20.1907"/>
-					<quaternion qw="-0.7977718813599152" qx="-0.006286456677587665" qy="0.5985001001343014" qz="-0.07292555048220965"/>
+					<position x="-0.0468" y="131.3443" z="297.6425"/>
+					<quaternion qw="-0.8258155447720615" qx="-0.5639345909581739" qy="0.0020995494776320576" qz="0.0014335360655763337"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-3" name="con_m_turret_right-mgroup-3-1" tags="turret medium standard hittable">
+			<connection group="left-mgroup1" name="con_m_turret_left-mgroup1-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="158.3073" y="66.3866" z="20.1907"/>
-					<quaternion qw="-0.7977718813599152" qx="-0.006286456677587665" qy="-0.5985001001343014" qz="0.07292555048220965"/>
+					<position x="-99.0617" y="-57.5634" z="303.9794"/>
+					<quaternion qw="-0.40181893352276193" qx="-0.29760312609911144" qy="-0.5154141760498258" qz="-0.6959325765658234"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-4" name="con_m_turret_left-mgroup-4-3" tags="turret medium standard hittable">
+			<connection group="right-mgroup1" name="con_m_turret_right-mgroup1-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="-67.8634" y="111.703" z="-97.5385"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="0.7087523038209071" qz="0.0"/>
+					<position x="99.0617" y="-57.5634" z="303.9794"/>
+					<quaternion qw="-0.40181893352276193" qx="-0.29760312609911144" qy="0.5154141760498258" qz="0.6959325765658234"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-4" name="con_m_turret_right-mgroup-4-3" tags="turret medium standard hittable">
+			<connection group="left-mgroup1" name="con_m_turret_left-mgroup1-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="67.8634" y="111.703" z="-97.5385"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="-0.7087523038209071" qz="-0.0"/>
+					<position x="-113.50439999999999" y="-65.9272" z="297.67470000000003"/>
+					<quaternion qw="-0.4129268289200265" qx="-0.28198717653657335" qy="-0.48836817163224217" qz="-0.715172143727343"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-4" name="con_m_turret_left-mgroup-4-2" tags="turret medium standard hittable">
+			<connection group="right-mgroup1" name="con_m_turret_right-mgroup1-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-71.2819" y="111.703" z="-74.2088"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="0.7087523038209071" qz="0.0"/>
+					<position x="113.50439999999999" y="-65.9272" z="297.67470000000003"/>
+					<quaternion qw="-0.4129268289200265" qx="-0.28198717653657335" qy="0.48836817163224217" qz="0.715172143727343"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-4" name="con_m_turret_right-mgroup-4-2" tags="turret medium standard hittable">
+			<connection group="left-mgroup2" name="con_m_turret_left-mgroup2-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="71.2819" y="111.703" z="-74.2088"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="-0.7087523038209071" qz="-0.0"/>
+					<position x="-98.018" y="56.2376" z="304.4569"/>
+					<quaternion qw="-0.6961681374413804" qx="-0.515732132260955" qy="-0.29705184739709284" qz="-0.40141062781513676"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-4" name="con_m_turret_left-mgroup-4-1" tags="turret medium standard hittable">
+			<connection group="right-mgroup2" name="con_m_turret_right-mgroup2-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="-75.3914" y="111.703" z="-51.111799999999995"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="0.7087523038209071" qz="0.0"/>
+					<position x="98.018" y="56.2376" z="304.4569"/>
+					<quaternion qw="-0.6961681374413804" qx="-0.515732132260955" qy="0.29705184739709284" qz="0.40141062781513676"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-4" name="con_m_turret_right-mgroup-4-1" tags="turret medium standard hittable">
+			<connection group="left-mgroup2" name="con_m_turret_left-mgroup2-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="75.3914" y="111.703" z="-51.111799999999995"/>
-					<quaternion qw="-0.7054574202803147" qx="-0.0" qy="-0.7087523038209071" qz="-0.0"/>
+					<position x="-113.1473" y="65.0197" z="297.9729"/>
+					<quaternion qw="-0.7153950450849833" qx="-0.488695214492739" qy="-0.2814213384837286" qz="-0.41253963087899453"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-2" name="con_m_turret_left-mgroup-2-3" tags="turret medium standard hittable">
+			<connection group="right-mgroup2" name="con_m_turret_right-mgroup2-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-74.8671" y="111.2962" z="50.697"/>
-					<quaternion qw="-0.7053652765199623" qx="-0.010967946324004645" qy="0.7086591927883461" qz="0.01190291182528831"/>
+					<position x="113.1473" y="65.0197" z="297.9729"/>
+					<quaternion qw="-0.7153950450849833" qx="-0.488695214492739" qy="0.2814213384837286" qz="0.41253963087899453"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-2" name="con_m_turret_right-mgroup-2-3" tags="turret medium standard hittable">
+			<connection group="mgroup1" name="con_m_turret_mgroup1-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="74.8671" y="111.2962" z="50.697"/>
-					<quaternion qw="-0.7053652765199623" qx="-0.010967946324004645" qy="-0.7086591927883461" qz="-0.01190291182528831"/>
+					<position x="-0.061399999999999996" y="147.2875" z="289.9928"/>
+					<quaternion qw="-0.8607083016864837" qx="-0.5090914660585251" qy="0.0025546567418760647" qz="0.000756520509850106"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-2" name="con_m_turret_left-mgroup-2-2" tags="turret medium standard hittable">
+			<connection group="mgroup2" name="con_m_turret_mgroup2-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-75.05420000000001" y="110.1838" z="72.1173"/>
-					<quaternion qw="-0.704851888635748" qx="-0.02846141654681184" qy="0.7081624346886622" qz="0.029660225059737394"/>
+					<position x="0.27999999999999997" y="-147.24269999999999" z="290.01709999999997"/>
+					<quaternion qw="0.0021471715552328213" qx="0.00235499388663618" qy="-0.5090876784516885" qz="-0.860708765673254"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-2" name="con_m_turret_right-mgroup-2-2" tags="turret medium standard hittable">
+			<connection group="left-mgroup2" name="con_m_turret_left-mgroup2-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="75.05420000000001" y="110.1838" z="72.1173"/>
-					<quaternion qw="-0.704851888635748" qx="-0.02846141654681184" qy="-0.7081624346886622" qz="-0.029660225059737394"/>
+					<position x="-127.50699999999999" y="73.3926" z="290.0842"/>
+					<quaternion qw="-0.7453177620924483" qx="-0.4414062431595422" qy="-0.25366489728930836" qz="-0.4304835442760716"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-2" name="con_m_turret_left-mgroup-2-1" tags="turret medium standard hittable">
+			<connection group="right-mgroup2" name="con_m_turret_right-mgroup2-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-75.2394" y="107.9957" z="92.6679"/>
-					<quaternion qw="-0.7037259663703662" qx="-0.048783828309394595" qy="0.7071147139786892" qz="0.04877175029061825"/>
+					<position x="127.50699999999999" y="73.3926" z="290.0842"/>
+					<quaternion qw="-0.7453177620924483" qx="-0.4414062431595422" qy="0.25366489728930836" qz="0.4304835442760716"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-2" name="con_m_turret_right-mgroup-2-1" tags="turret medium standard hittable">
+			<connection group="left-mgroup1" name="con_m_turret_left-mgroup1-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="75.2394" y="107.9957" z="92.6679"/>
-					<quaternion qw="-0.7037259663703662" qx="-0.048783828309394595" qy="-0.7071147139786892" qz="-0.04877175029061825"/>
+					<position x="-127.5314" y="-73.8641" z="289.94309999999996"/>
+					<quaternion qw="-0.42989892548447384" qx="-0.25489302636068195" qy="-0.44069609493291667" qz="-0.7456563624692444"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-1" name="con_m_turret_left-mgroup-1-1" tags="turret medium standard hittable">
+			<connection group="right-mgroup1" name="con_m_turret_right-mgroup1-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-50.5757" y="105.3707" z="179.43359999999998"/>
-					<quaternion qw="-0.8303161977809111" qx="-0.1235590252379796" qy="0.5385993823295072" qz="-0.07224184617771305"/>
+					<position x="127.5314" y="-73.8641" z="289.94309999999996"/>
+					<quaternion qw="-0.42989892548447384" qx="-0.25489302636068195" qy="0.44069609493291667" qz="0.7456563624692444"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-1" name="con_m_turret_right-mgroup-1-1" tags="turret medium standard hittable">
+			<connection group="left-mgroup4" name="con_m_turret_left-mgroup4-4" tags="turret medium standard hittable">
 				<offset>
-					<position x="50.5757" y="105.3707" z="179.43359999999998"/>
-					<quaternion qw="-0.8303161977809111" qx="-0.1235590252379796" qy="-0.5385993823295072" qz="0.07224184617771305"/>
+					<position x="-129.7145" y="-74.9747" z="-252.5214"/>
+					<quaternion qw="-0.4247473812717539" qx="0.26378518245440385" qy="0.45688182053676224" qz="-0.7357078507691067"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-1" name="con_m_turret_left-mgroup-1-2" tags="turret medium standard hittable">
+			<connection group="right-mgroup4" name="con_m_turret_right-mgroup4-4" tags="turret medium standard hittable">
 				<offset>
-					<position x="-58.1502" y="105.10189999999999" z="162.4458"/>
-					<quaternion qw="-0.8250006368283614" qx="-0.13107385757858414" qy="0.5395353411398768" qz="-0.10533379682392541"/>
+					<position x="129.7145" y="-74.9747" z="-252.5214"/>
+					<quaternion qw="-0.4247473812717539" qx="0.26378518245440385" qy="-0.45688182053676224" qz="0.7357078507691067"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-1" name="con_m_turret_right-mgroup-1-2" tags="turret medium standard hittable">
+			<connection group="left-mgroup4" name="con_m_turret_left-mgroup4-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="58.1502" y="105.10189999999999" z="162.4458"/>
-					<quaternion qw="-0.8250006368283614" qx="-0.13107385757858414" qy="-0.5395353411398768" qz="0.10533379682392541"/>
+					<position x="-146.6309" y="-84.5115" z="-242.91670000000002"/>
+					<quaternion qw="-0.4247659400767449" qx="0.26377370205815315" qy="0.4568893852329924" qz="-0.7356965542359662"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-1" name="con_m_turret_left-mgroup-1-3" tags="turret medium standard hittable">
+			<connection group="right-mgroup4" name="con_m_turret_right-mgroup4-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-65.5293" y="104.3218" z="145.1699"/>
-					<quaternion qw="-0.8258578379735149" qx="-0.11726193476001294" qy="0.5415365864940261" qz="-0.10462597957700724"/>
+					<position x="146.6309" y="-84.5115" z="-242.91670000000002"/>
+					<quaternion qw="-0.4247659400767449" qx="0.26377370205815315" qy="-0.4568893852329924" qz="0.7356965542359662"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-1" name="con_m_turret_right-mgroup-1-3" tags="turret medium standard hittable">
+			<connection group="left-mgroup4" name="con_m_turret_left-mgroup4-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="65.5293" y="104.3218" z="145.1699"/>
-					<quaternion qw="-0.8258578379735149" qx="-0.11726193476001294" qy="-0.5415365864940261" qz="0.10462597957700724"/>
+					<position x="-165.80710000000002" y="-95.9954" z="-234.6101"/>
+					<quaternion qw="-0.42594699873276526" qx="0.26187298359685685" qy="0.4536135190208645" qz="-0.7377170664246138"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-5" name="con_m_turret_left-mgroup-5-2" tags="turret medium standard hittable">
+			<connection group="right-mgroup4" name="con_m_turret_right-mgroup4-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-45.7196" y="27.3729" z="191.9105"/>
-					<quaternion qw="-0.023991024782507524" qx="0.6905930390701259" qy="-0.1921876304444148" qz="-0.6968282426982518"/>
+					<position x="165.80710000000002" y="-95.9954" z="-234.6101"/>
+					<quaternion qw="-0.42594699873276526" qx="0.26187298359685685" qy="-0.4536135190208645" qz="0.7377170664246138"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-5" name="con_m_turret_right-mgroup-5-2" tags="turret medium standard hittable">
+			<connection group="left-mgroup4" name="con_m_turret_left-mgroup4-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="45.7196" y="27.3729" z="191.9105"/>
-					<quaternion qw="-0.023991024782507524" qx="0.6905930390701259" qy="0.1921876304444148" qz="0.6968282426982518"/>
+					<position x="-180.9672" y="-104.4412" z="-225.83429999999998"/>
+					<quaternion qw="-0.42590809416998066" qx="0.2618964381200068" qy="0.45360018299152155" qz="-0.7377394018287261"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-5" name="con_m_turret_left-mgroup-5-2" tags="turret medium standard hittable">
+			<connection group="right-mgroup4" name="con_m_turret_right-mgroup4-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="-55.801500000000004" y="25.474200000000003" z="169.8078"/>
-					<quaternion qw="-0.048423382747230945" qx="0.6906228560528764" qy="-0.20900452194868113" qz="-0.6906608114738276"/>
+					<position x="180.9672" y="-104.4412" z="-225.83429999999998"/>
+					<quaternion qw="-0.42590809416998066" qx="0.2618964381200068" qy="-0.45360018299152155" qz="0.7377394018287261"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-5" name="con_m_turret_right-mgroup-5-2" tags="turret medium standard hittable">
+			<connection group="left-mgroup3" name="con_m_turret_left-mgroup3-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="55.801500000000004" y="25.474200000000003" z="169.8078"/>
-					<quaternion qw="-0.048423382747230945" qx="0.6906228560528764" qy="0.20900452194868113" qz="0.6906608114738276"/>
+					<position x="-234.7519" y="-135.3407" z="-80.9731"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="1.7320137551660955e-06" qz="-0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-5" name="con_m_turret_left-mgroup-5-3" tags="turret medium standard hittable">
+			<connection group="right-mgroup3" name="con_m_turret_right-mgroup3-3" tags="turret medium standard hittable">
 				<offset>
-					<position x="-65.88380000000001" y="24.7513" z="148.252"/>
-					<quaternion qw="-0.07382211038329775" qx="0.6900968810430921" qy="-0.22577726884795316" qz="-0.6836235920919579"/>
+					<position x="234.7519" y="-135.3407" z="-80.9731"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="-1.7320137551660955e-06" qz="0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-5" name="con_m_turret_right-mgroup-5-3" tags="turret medium standard hittable">
+			<connection group="left-mgroup3" name="con_m_turret_left-mgroup3-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="65.88380000000001" y="24.7513" z="148.252"/>
-					<quaternion qw="-0.07382211038329775" qx="0.6900968810430921" qy="0.22577726884795316" qz="0.6836235920919579"/>
+					<position x="-234.7518" y="-135.3409" z="-60.4549"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="1.7320137551660955e-06" qz="-0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-6" name="con_m_turret_left-mgroup-6-1" tags="turret medium standard hittable">
+			<connection group="right-mgroup3" name="con_m_turret_right-mgroup3-2" tags="turret medium standard hittable">
 				<offset>
-					<position x="-82.0353" y="0.029799999999999997" z="57.3649"/>
-					<quaternion qw="-0.08028781794948131" qx="-0.7021926135435917" qy="0.08323141527353796" qz="0.7025325126179536"/>
+					<position x="234.7518" y="-135.3409" z="-60.4549"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="-1.7320137551660955e-06" qz="0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-6" name="con_m_turret_right-mgroup-6-1" tags="turret medium standard hittable">
+			<connection group="left-mgroup3" name="con_m_turret_left-mgroup3-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="82.0353" y="0.029799999999999997" z="57.3649"/>
-					<quaternion qw="-0.08028781794948131" qx="-0.7021926135435917" qy="-0.08323141527353796" qz="-0.7025325126179536"/>
+					<position x="-234.75169999999997" y="-135.341" z="-40.1181"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="1.7320137551660955e-06" qz="-0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-6" name="con_m_turret_left-mgroup-6-2" tags="turret medium standard hittable">
+			<connection group="right-mgroup3" name="con_m_turret_right-mgroup3-1" tags="turret medium standard hittable">
 				<offset>
-					<position x="-82.0831" y="-5.1642" z="33.7041"/>
-					<quaternion qw="-0.06201550669640416" qx="-0.7041224974148554" qy="0.06530709215476872" qz="0.7043440702368009"/>
+					<position x="234.75169999999997" y="-135.341" z="-40.1181"/>
+					<quaternion qw="-0.5000320869342891" qx="-3.464027510332191e-06" qy="-1.7320137551660955e-06" qz="0.8660068775830478"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-6" name="con_m_turret_right-mgroup-6-2" tags="turret medium standard hittable">
+			<connection group="left-lgroup-3" name="con_shieldgen_m_left-lgroup-3-1" tags="medium shield hittable">
 				<offset>
-					<position x="82.0831" y="-5.1642" z="33.7041"/>
-					<quaternion qw="-0.06201550669640416" qx="-0.7041224974148554" qy="-0.06530709215476872" qz="-0.7043440702368009"/>
+					<position x="-169.7834" y="-77.9395" z="-172.1698"/>
+					<quaternion qw="-0.9578023729747348" qx="-5.74855162014351e-07" qy="-0.0" qz="-0.2874275810071756"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-8" name="con_m_turret_left-mgroup-8-1" tags="turret medium standard hittable">
+			<connection group="right-lgroup-3" name="con_shieldgen_m_right-lgroup-3-1" tags="medium shield hittable">
 				<offset>
-					<position x="-106.03750000000001" y="57.5508" z="-147.4102"/>
-					<quaternion qw="-0.6884337115200375" qx="0.16271730862266667" qy="0.1614284514721954" qz="-0.6881300439398287"/>
+					<position x="169.7834" y="-77.9395" z="-172.1698"/>
+					<quaternion qw="-0.9578023729747348" qx="-5.74855162014351e-07" qy="0.0" qz="0.2874275810071756"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-8" name="con_m_turret_right-mgroup-8-1" tags="turret medium standard hittable">
+			<connection group="left-lgroup-5" name="con_l_turret_left-lgroup-5-1" tags="turret large standard hittable">
 				<offset>
-					<position x="106.03750000000001" y="57.5508" z="-147.4102"/>
-					<quaternion qw="-0.6884337115200375" qx="0.16271730862266667" qy="-0.1614284514721954" qz="0.6881300439398287"/>
+					<position x="-14.9301" y="227.38619999999997" z="-169.759"/>
+					<quaternion qw="-0.5146473748768838" qx="0.4849105653049498" qy="-0.5146478391768985" qz="-0.48490970790294097"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-8" name="con_m_turret_left-mgroup-8-2" tags="turret medium standard hittable">
+			<connection group="right-lgroup-5" name="con_l_turret_right-lgroup-5-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-93.5214" y="57.6167" z="-169.64440000000002"/>
-					<quaternion qw="-0.6806996818409109" qx="0.19271158367911248" qy="0.19143692473321827" qz="-0.6803396890570615"/>
+					<position x="14.9301" y="227.38619999999997" z="-169.759"/>
+					<quaternion qw="-0.5146473748768838" qx="0.4849105653049498" qy="0.5146478391768985" qz="0.48490970790294097"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-8" name="con_m_turret_right-mgroup-8-2" tags="turret medium standard hittable">
+			<connection group="left-lgroup-3" name="con_l_turret_left-lgroup-3-1" tags="turret large standard hittable">
 				<offset>
-					<position x="93.5214" y="57.6167" z="-169.64440000000002"/>
-					<quaternion qw="-0.6806996818409109" qx="0.19271158367911248" qy="-0.19143692473321827" qz="0.6803396890570615"/>
+					<position x="-205.2472" y="-101.3306" z="-170.9117"/>
+					<quaternion qw="-0.677268629283494" qx="-0.20324191684256276" qy="0.6772685215369003" qz="-0.20324191684256276"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-7" name="con_m_turret_left-mgroup-7-1" tags="turret medium standard hittable">
+			<connection group="right-lgroup-3" name="con_l_turret_right-lgroup-3-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-42.0526" y="-7.2977" z="-80.8506"/>
-					<quaternion qw="0.0013221728198789737" qx="-0.707105640341151" qy="0.0012159993814998596" qz="0.707105640341151"/>
+					<position x="205.2472" y="-101.3306" z="-170.9117"/>
+					<quaternion qw="-0.677268629283494" qx="-0.20324191684256276" qy="-0.6772685215369003" qz="0.20324191684256276"/>
 				</offset>
 			</connection>
-			<connection group="right-mgroup-7" name="con_m_turret_right-mgroup-7-1" tags="turret medium standard hittable">
+			<connection group="left-lgroup-4" name="con_l_turret_left-lgroup-4-1" tags="turret large standard hittable">
 				<offset>
-					<position x="42.0526" y="-7.2977" z="-80.8506"/>
-					<quaternion qw="0.0013221728198789737" qx="-0.707105640341151" qy="-0.0012159993814998596" qz="-0.707105640341151"/>
+					<position x="-190.96169999999998" y="-127.37620000000001" z="-170.0996"/>
+					<quaternion qw="-0.16262040020131036" qx="-0.6881530770063331" qy="-0.16262008071513526" qz="0.6881530770063331"/>
 				</offset>
 			</connection>
-			<connection group="left-mgroup-8" name="con_m_turret_left-mgroup-8-3" tags="turret medium standard hittable">
+			<connection group="right-lgroup-4" name="con_l_turret_right-lgroup-4-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-79.68469999999999" y="57.5757" z="-190.8798"/>
-					<quaternion qw="-0.6746691128349265" qx="0.21297487530726794" qy="0.2117119523142004" qz="-0.6742709692117083"/>
-				</offset>
-			</connection>
-			<connection group="right-mgroup-8" name="con_m_turret_right-mgroup-8-3" tags="turret medium standard hittable">
-				<offset>
-					<position x="79.68469999999999" y="57.5757" z="-190.8798"/>
-					<quaternion qw="-0.6746691128349265" qx="0.21297487530726794" qy="-0.2117119523142004" qz="0.6742709692117083"/>
-				</offset>
-			</connection>
-			<connection group="left-mgroup-7" name="con_m_turret_left-mgroup-7-2" tags="turret medium standard hittable">
-				<offset>
-					<position x="-42.0526" y="-7.2952" z="-100.74000000000001"/>
-					<quaternion qw="-0.0013323264007289812" qx="0.7071055860404588" qy="-0.0012669992582629215" qz="-0.7071055860404588"/>
-				</offset>
-			</connection>
-			<connection group="right-mgroup-7" name="con_m_turret_right-mgroup-7-2" tags="turret medium standard hittable">
-				<offset>
-					<position x="42.0526" y="-7.2952" z="-100.74000000000001"/>
-					<quaternion qw="-0.0013323264007289812" qx="0.7071055860404588" qy="0.0012669992582629215" qz="0.7071055860404588"/>
-				</offset>
-			</connection>
-			<connection group="left-mgroup-7" name="con_m_turret_left-mgroup-7-3" tags="turret medium standard hittable">
-				<offset>
-					<position x="-42.052499999999995" y="-7.2934" z="-120.53590000000001"/>
-					<quaternion qw="-0.0013538263813370223" qx="0.7071055593333121" qy="-0.0012739992060463912" qz="-0.7071055593333121"/>
-				</offset>
-			</connection>
-			<connection group="right-mgroup-7" name="con_m_turret_right-mgroup-7-3" tags="turret medium standard hittable">
-				<offset>
-					<position x="42.052499999999995" y="-7.2934" z="-120.53590000000001"/>
-					<quaternion qw="-0.0013538263813370223" qx="0.7071055593333121" qy="0.0012739992060463912" qz="0.7071055593333121"/>
-				</offset>
-			</connection>
-			<connection group="left-mgroup-7" name="con_m_turret_left-mgroup-7-4" tags="turret medium standard hittable">
-				<offset>
-					<position x="-42.0524" y="-7.2905" z="-140.5523"/>
-					<quaternion qw="0.0014096727382246948" qx="-0.7071055208697317" qy="0.0012559991489428499" qz="0.7071055208697317"/>
-				</offset>
-			</connection>
-			<connection group="right-mgroup-7" name="con_m_turret_right-mgroup-7-4" tags="turret medium standard hittable">
-				<offset>
-					<position x="42.0524" y="-7.2905" z="-140.5523"/>
-					<quaternion qw="0.0014096727382246948" qx="-0.7071055208697317" qy="-0.0012559991489428499" qz="-0.7071055208697317"/>
-				</offset>
-			</connection>
-			<connection group="left-lshieldgroup-1" name="con_shieldgen_l_left-lshieldgroup-1-1" tags="large shield hittable">
-				<offset>
-					<position x="34.355799999999995" y="-7.318" z="-32.060300000000005"/>
-					<quaternion qw="0.0006371731619890169" qx="-0.03817299764013221" qy="9.099999437434919e-05" qz="-0.9992709382247286"/>
-				</offset>
-			</connection>
-			<connection group="right-lshieldgroup-1" name="con_shieldgen_l_right-lshieldgroup-1-1" tags="large shield hittable">
-				<offset>
-					<position x="-34.355799999999995" y="-7.318" z="-32.060300000000005"/>
-					<quaternion qw="0.0006371731619890169" qx="-0.03817299764013221" qy="-9.099999437434919e-05" qz="0.9992709382247286"/>
+					<position x="190.96169999999998" y="-127.37620000000001" z="-170.0996"/>
+					<quaternion qw="-0.16262040020131036" qx="-0.6881530770063331" qy="0.16262008071513526" qz="-0.6881530770063331"/>
 				</offset>
 			</connection>
 			<connection group="lgroup-2" name="con_l_turret_lgroup-2-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-0.0" y="22.517200000000003" z="198.1859"/>
-					<quaternion qw="1.7320510330969933e-07" qx="0.0" qy="-0.14593600477706709" qz="-0.9892940323835365"/>
+					<position x="-1.0746" y="-246.8957" z="175.07829999999998"/>
+					<quaternion qw="1.7320510330969933e-07" qx="0.0" qy="-0.17949805972188368" qz="-0.9837583273121754"/>
 				</offset>
 			</connection>
-			<connection group="left-top-bat-1" name="con_l_turret_left-top-bat-1-1" tags="turret large standard hittable">
+			<connection group="left-lgroup-2" name="con_l_turret_left-lgroup-2-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-99.5611" y="13.993400000000001" z="-60.663"/>
-					<quaternion qw="-0.21663698756586658" qx="0.7317505014703501" qy="-0.18451158730746298" qz="-0.6193263221965929"/>
+					<position x="-213.13209999999998" y="-125.01050000000001" z="174.7269"/>
+					<quaternion qw="-0.48506354014450226" qx="-0.08346815611225168" qy="-0.15956707680498144" qz="-0.8557363945384214"/>
 				</offset>
 			</connection>
-			<connection group="right-top-bat-1" name="con_l_turret_right-top-bat-1-1" tags="turret large standard hittable">
+			<connection group="right-lgroup-2" name="con_l_turret_right-lgroup-2-1" tags="turret large standard hittable">
 				<offset>
-					<position x="99.5611" y="13.993400000000001" z="-60.663"/>
-					<quaternion qw="-0.21663698756586658" qx="0.7317505014703501" qy="0.18451158730746298" qz="0.6193263221965929"/>
-				</offset>
-			</connection>
-			<connection group="lgroup-3" name="con_l_turret_lgroup-3-1" tags="turret large standard hittable">
-				<offset>
-					<position x="-0.006999999999999999" y="-7.3272" z="-150.8982"/>
-					<quaternion qw="1.7320510330969933e-07" qx="-0.999999999999985" qy="0.0" qz="-0.0"/>
+					<position x="213.13209999999998" y="-125.01050000000001" z="174.7269"/>
+					<quaternion qw="-0.48506354014450226" qx="-0.08346815611225168" qy="0.15956707680498144" qz="0.8557363945384214"/>
 				</offset>
 			</connection>
 			<connection group="left-lgroup-1" name="con_l_turret_left-lgroup-1-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-12.6278" y="-67.8711" z="79.751"/>
-					<quaternion qw="-0.6690165561868793" qx="0.0020052825850879847" qy="-0.001804605677017653" qz="-0.7432426049332429"/>
+					<position x="-214.9678" y="122.40679999999999" z="174.5919"/>
+					<quaternion qw="-0.8508173482270975" qx="-0.14781023250146272" qy="-0.08980295548176116" qz="-0.4961828335507126"/>
 				</offset>
 			</connection>
 			<connection group="right-lgroup-1" name="con_l_turret_right-lgroup-1-1" tags="turret large standard hittable">
 				<offset>
-					<position x="12.6278" y="-67.8711" z="79.751"/>
-					<quaternion qw="-0.6690165561868793" qx="0.0020052825850879847" qy="0.001804605677017653" qz="0.7432426049332429"/>
+					<position x="214.9678" y="122.40679999999999" z="174.5919"/>
+					<quaternion qw="-0.8508173482270975" qx="-0.14781023250146272" qy="0.08980295548176116" qz="0.4961828335507126"/>
 				</offset>
 			</connection>
 			<connection group="lgroup-1" name="con_l_turret_lgroup-1-1" tags="turret large standard hittable">
 				<offset>
-					<position x="-0.0" y="98.45739999999999" z="236.4729"/>
-					<quaternion qw="-0.9917434997783955" qx="-0.12823739956541397" qy="0.0" qz="-0.0"/>
+					<position x="-1.0746" y="246.9048" z="175.083"/>
+					<quaternion qw="-0.983758453005515" qx="-0.17949737084480072" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
 		</connections>
