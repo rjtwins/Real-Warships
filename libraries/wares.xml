@@ -3,7 +3,7 @@
   <add sel="/wares">
     <ware id="ship_arg_xl_battleship_01" name="{30303,101}" description="{30303,102}" group="ships_argon" transport="ship" volume="1" tags="ship">
       <price min="25000000" average="30000000" max="35000000" />
-      <production time="486" amount="1" method="default" name="{20206,101}">
+      <production time="486" amount="1" method="default" name="{30303,101}">
         <primary>
           <ware ware="energycells" amount="6000" />
           <ware ware="hullparts" amount="16000" />
@@ -17,7 +17,7 @@
   <add sel="/wares">
     <ware id="ship_par_xl_battleship_01" name="{30303,103}" description="{30303,104}" group="ships_paranid" transport="ship" volume="1" tags="ship">
       <price min="25000000" average="30000000" max="35000000" />
-      <production time="758" amount="1" method="default" name="{20206,101}">
+      <production time="758" amount="1" method="default" name="{30303,103}">
         <primary>
           <ware ware="energycells" amount="6000" />
           <ware ware="hullparts" amount="16000" />
@@ -31,13 +31,55 @@
   <add sel="/wares">
     <ware id="ship_tel_xl_battleship_01" name="{30303,105}" description="{30303,106}" group="ships_teladi" transport="ship" volume="1" tags="ship">
       <price min="25000000" average="30000000" max="35000000" />
-      <production time="645" amount="1" method="default" name="{20206,101}">
+      <production time="645" amount="1" method="default" name="{30303,105}">
         <primary>
           <ware ware="energycells" amount="6000" />
           <ware ware="hullparts" amount="16000" />
         </primary>
       </production>
       <component ref="ship_tel_xl_battleship_01_macro" amount="1" />
+      <restriction licence="capitalship" />
+      <owner faction="teladi" />
+    </ware>
+  </add>
+  <add sel="/wares">
+    <ware id="ship_arg_l_destroyer_01_h" name="{30303,107}" description="{30303,108}" group="ships_argon" transport="ship" volume="1" tags="ship">
+      <price min="8500000" average="9000000" max="9500000" />
+      <production time="218" amount="1" method="default" name="{30303,107}">
+        <primary>
+          <ware ware="energycells" amount="2000" />
+          <ware ware="hullparts" amount="7000" />
+        </primary>
+      </production>
+      <component ref="ship_arg_l_destroyer_01_h_macro" amount="1" />
+      <restriction licence="capitalship" />
+      <owner faction="argon" />
+    </ware>
+  </add>
+  <add sel="/wares">
+    <ware id="ship_par_l_destroyer_01_h" name="{30303,109}" description="{30303,110}" group="ships_paranid" transport="ship" volume="1" tags="ship">
+      <price min="8500000" average="9000000" max="9500000" />
+      <production time="218" amount="1" method="default" name="{30303,109}">
+        <primary>
+          <ware ware="energycells" amount="2000" />
+          <ware ware="hullparts" amount="7000" />
+        </primary>
+      </production>
+      <component ref="ship_par_l_destroyer_01_h_macro" amount="1" />
+      <restriction licence="capitalship" />
+      <owner faction="paranid" />
+    </ware>
+  </add>
+  <add sel="/wares">
+    <ware id="ship_tel_l_destroyer_01_h" name="{30303,111}" description="{30303,112}" group="ships_teladi" transport="ship" volume="1" tags="ship">
+      <price min="8500000" average="9000000" max="9500000" />
+      <production time="218" amount="1" method="default" name="{30303,111}">
+        <primary>
+          <ware ware="energycells" amount="2000" />
+          <ware ware="hullparts" amount="7000" />
+        </primary>
+      </production>
+      <component ref="ship_tel_l_destroyer_01_h_macro" amount="1" />
       <restriction licence="capitalship" />
       <owner faction="teladi" />
     </ware>

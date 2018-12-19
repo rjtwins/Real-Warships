@@ -2,6 +2,8 @@
 <diff>
   	<add sel="/index">
   		<entry name="ship_arg_l_destroyer_01_h_macro" value="extensions\Real Warships\assets\units\size_l\macros\ship_arg_l_destroyer_01_h_macro"/>
+  		<entry name="ship_tel_l_destroyer_01_h_macro" value="extensions\Real Warships\assets\units\size_l\macros\ship_tel_l_destroyer_01_h_macro"/>
+  		<entry name="ship_par_l_destroyer_01_h_macro" value="extensions\Real Warships\assets\units\size_l\macros\ship_par_l_destroyer_01_h_macro"/>
 		<entry name="ship_arg_xl_battleship_01_macro" value="extensions\Real Warships\assets\units\size_xl\macros\ship_arg_xl_battleship_01_macro"/>
 		<entry name="ship_par_xl_battleship_01_macro" value="extensions\Real Warships\assets\units\size_xl\macros\ship_par_xl_battleship_01_macro"/>
 		<entry name="ship_tel_xl_battleship_01_macro" value="extensions\Real Warships\assets\units\size_xl\macros\ship_tel_xl_battleship_01_macro"/>

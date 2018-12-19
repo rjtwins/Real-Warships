@@ -24,7 +24,7 @@
         <drag forward="235.789" reverse="943.155" horizontal="268.953" vertical="268.953" pitch="871.508" yaw="871.508" roll="871.508" />
       </physics>
       <thruster tags="extralarge" />
-      <ship type="carrier" />
+      <ship type="battleship" />
     </properties>
     <connections>
       <connection ref="con_cockpit">
