@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ?xml-stylesheet href="index.xsl" type="text/xsl" ? -->
+<diff>
+  	<add sel="/index">
+		<entry name="ship_arg_l_destroyer_01_h" value="extensions\Real Warships\assets\units\size_l\ship_arg_l_destroyer_01_h"/>
+		<entry name="ship_arg_xl_battleship_01" value="extensions\Real Warships\assets\units\size_xl\ship_arg_xl_battleship_01"/>
+		<entry name="ship_par_xl_battleship_01" value="extensions\Real Warships\assets\units\size_xl\ship_par_xl_battleship_01"/>
+		<entry name="ship_tel_xl_battleship_01" value="extensions\Real Warships\assets\units\size_xl\ship_tel_xl_battleship_01"/>
+	</add>
+</diff>
