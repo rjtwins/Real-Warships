@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--German-->
+<diff>
+	<add sel="/language">
+		<page id="30303" title="Real Warships" descr="Real Warships text" voice="no">
+			<t id="101">Argon Collosus Gardian</t>
+			<t id="102">
+				After the realignment of the jumpgate network and renewed construction of capital ships. 
+				The argon came to the conclusion that the old doctrine of carrier-based power projection had become obsolete.
+				With the small size of their territory, the relative distance of Argon Prime to potentially hostile factions and
+				the loss of jump technology. Fighters were able to redeploy from core systems far faster then they could be transported by a carrier.
+				With conflict with the Holy Order looing a quick but drastic refit was imagined. 
+				The hull was reinforced, the ship was stripped of most of its internal hanger the freed up space filled with generators
+				and as many large guns as possible where fitted on the outer hull. The result, the Guardian refit.
+				Two ships were refitted with a third ordered in conjunction with the Antigon Republic, these ships proved their worth in the opening moments
+				of the Argon-Holy Order war. When it became clear the Argon were going to back the Godream intervening in the Paranid civil war,
+				The holy order decided on a preemptive strike into Argon space. With a carrier, several destroyers and assorted escorts sent
+				through the gate into argon space. They were met by the newly commissioned Colossus Guardian class ships, the Guardian and the Defender who
+				were on exercise near the border. In the ensuing brawl close to the jumpgate the two ships proved a tough obstacle.
+				Neutralizing the enemy carrier and crippling two destroyers in the first few minutes of the engagement and so blocking the Paranid 
+				advance until a stream of lighter forces could arrive from Argon garrisons.
+			</t>
+			<t id="103">Zeus Avatar</t>
+			<t id="104">
+				After suffering their defeat beyond the flashpoint jumpgate to the Colossus Guardians the Holy order scrambled to create a design of their own. Much as the argon had done stripping out hanger space in lew for armor and power generation utilizing the biggest ship currently in service. The Zeus Avatar refit was created. Several where ordered and two were utilized in a new offense into Godrealm space hoping to break the stalemate, however, after making some progress they encountered the argon ships and a deadly slugging match ensued. In the chaos, one Avatar was crippled while lighter forces covered the retreat of the other. Realizing they were at a severe disadvantage lacking what was quickly becoming known as the new dreadnoughts Godrealm engineers rushed to reverse engineer and produce their own versions.
+			</t>
+			<t id="105">Condor Priviteer</t>
+			<t id="106">
+				Soon after the Argon started production of their Gardian refit the Teladi, via unreleased means, gained access to its blueprints.
+				Realizing these ships would make a large part of their fleed obsolete design on a refit of their own started immediately.
+				Two ships were ordered soon after the first Argon ships came online, following the battles at the Argon and Godrealm border and intensifying of the war. The Teladi decided more profit could be made by staying neutral and selling all parties ships and supplies. The two ordered ships were
+				canceled and broken up, their components sold to the eager Godrealm scrambling to build their own refit ships.
+			</t>
+			<t id="107">Behemoth Heavy</t>
+			<t id="108">
+				Desc.
+			</t>
+			<t id="109">Odysseus Heavy</t>
+			<t id="110">
+				Desc.
+			</t>
+			<t id="111">Phoenix Heavy</t>
+			<t id="112">
+				Desc.
+			</t>
+	 	</page>
+	</add>
+</diff>

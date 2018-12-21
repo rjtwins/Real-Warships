@@ -1,23 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <diff>
-	<!--Argon-->
-	<add sel="//group[@name='arg_carrier_xl']" >
-		<select macro="ship_arg_xl_battleship_01_macro" weight="2"/>
+  <!-- ############################# -->
+  <!--    ARGON FEDERATION -->
+  <!-- ############################# -->
+  	<!-- Battleship -->
+	<add sel="//groups">
+		<group name="arg_battleship_xl">
+			<select macro="ship_arg_xl_battleship_01_macro"/>
+		</group>
 	</add>
-	<add sel="//group[@name='arg_destroyer_l']" >
-		<select macro="ship_arg_l_destroyer_01_h_macro" weight="2"/>
+	<!-- Heavy Destroyer -->
+	<add sel="//groups">
+		<group name="arg_destroyer_h_l">
+			<select macro="ship_arg_l_destroyer_01_h_macro"/>
+		</group>
 	</add>
-	<!--Paranid-->
-	<add sel="//group[@name='par_carrier_xl']" >
-		<select macro="ship_par_xl_battleship_01_macro" weight="2"/>
+	
+  <!-- ############################# -->
+  <!--    ANTIGONE REPUBLIC -->
+  <!-- ############################# -->
+  	<!-- Battleship -->
+	<add sel="//groups">
+		<group name="ant_battleship_xl">
+			<select macro="ship_arg_xl_battleship_01_macro"/>
+		</group>
 	</add>
-	<add sel="//group[@name='par_destroyer_l']" >
-		<select macro="ship_par_l_destroyer_01_h_macro" weight="2"/>
+	<!-- Heavy Destroyer -->
+	<add sel="//groups">
+		<group name="ant_destroyer_h_l">
+			<select macro="ship_ant_l_destroyer_01_h_macro"/>
+		</group>
 	</add>
-	<!--Teladi-->
-	<add sel="//group[@name='tel_carrier_xl']" >
-		<select macro="ship_tel_xl_battleship_01_macro" weight="2"/>
+  <!-- ############################# -->
+  <!--    GODREALM OF THE PARANID -->
+  <!-- ############################# -->
+  	<!-- Battleship -->
+	<add sel="//groups">
+		<group name="par_battleship_xl">
+			<select macro="ship_par_xl_battleship_01_macro"/>
+		</group>
 	</add>
-	<add sel="//group[@name='tel_carrier_xl']" >
-		<select macro="ship_tel_l_destroyer_01_h_macro" weight="2"/>
+	<!-- Heavy Destroyer -->
+	<add sel="//groups">
+		<group name="par_destroyer_h_l">
+			<select macro="ship_par_l_destroyer_01_h_macro"/>
+		</group>
+	</add>
+  <!-- ############################# -->
+  <!--    HOLY ORDER OF THE PONTIFEX -->
+  <!-- ############################# -->
+  	<!-- Battleship -->
+	<add sel="//groups">
+		<group name="hol_battleship_xl">
+			<select macro="ship_par_xl_battleship_01_macro"/>
+		</group>
+	</add>
+	<!-- Heavy Destroyer -->
+	<add sel="//groups">
+		<group name="hol_destroyer_h_l">
+			<select macro="ship_par_l_destroyer_01_h_macro"/>
+		</group>
+	</add>
+  <!-- ############################# -->
+  <!--    TELADI COMPANY & MINISTRY OF FINANCE-->
+  <!-- ############################# -->
+  	<!-- Battleship -->
+	<add sel="//groups">
+		<group name="tel_battleship_xl">
+			<select macro="ship_tel_xl_battleship_01_macro"/>
+		</group>
+	</add>
+	<!-- Heavy Destroyer -->
+	<add sel="//groups">
+		<group name="tel_destroyer_h_l">
+			<select macro="ship_tel_l_destroyer_01_h_macro"/>
+		</group>
 	</add>
 </diff>

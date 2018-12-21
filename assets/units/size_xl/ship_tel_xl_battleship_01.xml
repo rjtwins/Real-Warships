@@ -555,6 +555,78 @@
 				</offset>
 			</connection>
 			<!-- New Main Gun Turrets -->
+	<connection group="down-bat-2" name="con_shieldgen_l_down-bat-2-1" tags="large shield hittable">
+		<offset>
+			<position x="-0.9209" y="-479.0138" z="415.3011"/>
+			<quaternion qw="-0.13303128568020092" qx="-0.6944522801598052" qy="-0.09791987265974259" qz="-0.7003216447814675"/>
+		</offset>
+	</connection>
+	<connection group="up-bat-2" name="con_shieldgen_l_up-bat-2-1" tags="large shield hittable">
+		<offset>
+			<position x="-1.6546" y="479.41339999999997" z="414.01250000000005"/>
+			<quaternion qw="-0.6889561109058373" qx="-0.13226208571205836" qy="0.7057292671222042" qz="0.09895665442887777"/>
+		</offset>
+	</connection>
+	<connection group="left-side-bat-4" name="con_shieldgen_l_left-side-bat-4-1" tags="large shield hittable">
+		<offset>
+			<position x="-419.91690000000006" y="230.8761" z="413.63599999999997"/>
+			<quaternion qw="-0.6521843123610942" qx="-0.46447720213926275" qy="0.5377998283714251" qz="-0.26398465108152597"/>
+		</offset>
+	</connection>
+	<connection group="right-side-bat-4" name="con_shieldgen_l_right-side-bat-4-1" tags="large shield hittable">
+		<offset>
+			<position x="419.91690000000006" y="230.8761" z="413.63599999999997"/>
+			<quaternion qw="-0.6521843123610942" qx="-0.46447720213926275" qy="-0.5377998283714251" qz="0.26398465108152597"/>
+		</offset>
+	</connection>
+	<connection group="left-side-bat-2" name="con_shieldgen_l_left-side-bat-2-1" tags="large shield hittable">
+		<offset>
+			<position x="-412.9454" y="-242.2978" z="415.63559999999995"/>
+			<quaternion qw="-0.43204565135355777" qx="-0.6729735260771913" qy="0.23491345111792575" qz="-0.5525023609267002"/>
+		</offset>
+	</connection>
+	<connection group="right-side-bat-2" name="con_shieldgen_l_right-side-bat-2-1" tags="large shield hittable">
+		<offset>
+			<position x="412.9454" y="-242.2978" z="415.63559999999995"/>
+			<quaternion qw="-0.43204565135355777" qx="-0.6729735260771913" qy="-0.23491345111792575" qz="0.5525023609267002"/>
+		</offset>
+	</connection>
+	<connection group="left-side-bat-3" name="con_shieldgen_l_left-side-bat-3-1" tags="large shield hittable">
+		<offset>
+			<position x="-88.6014" y="49.647999999999996" z="627.024"/>
+			<quaternion qw="-0.5224956763233546" qx="-8.526419343561946e-07" qy="-0.0" qz="0.8526419343561946"/>
+		</offset>
+	</connection>
+	<connection group="right-side-bat-3" name="con_shieldgen_l_right-side-bat-3-1" tags="large shield hittable">
+		<offset>
+			<position x="88.6014" y="49.647999999999996" z="627.024"/>
+			<quaternion qw="-0.5224956763233546" qx="-8.526419343561946e-07" qy="0.0" qz="-0.8526419343561946"/>
+		</offset>
+	</connection>
+	<connection group="left-side-bat-1" name="con_shieldgen_l_left-side-bat-1-1" tags="large shield hittable">
+		<offset>
+			<position x="-88.2798" y="-50.2791" z="625.9587"/>
+			<quaternion qw="-0.8526407988643373" qx="0.0" qy="5.224975292876626e-07" qz="0.5224975292876626"/>
+		</offset>
+	</connection>
+	<connection group="right-side-bat-1" name="con_shieldgen_l_right-side-bat-1-1" tags="large shield hittable">
+		<offset>
+			<position x="88.2798" y="-50.2791" z="625.9587"/>
+			<quaternion qw="-0.8526407988643373" qx="0.0" qy="-5.224975292876626e-07" qz="-0.5224975292876626"/>
+		</offset>
+	</connection>
+	<connection group="down-bat-1" name="con_shieldgen_l_down-bat-1-1" tags="large shield hittable">
+		<offset>
+			<position x="-0.00019999999999999998" y="-100.9341" z="627.8140999999999"/>
+			<quaternion qw="-1.0" qx="-0.0" qy="0.0" qz="-0.0"/>
+		</offset>
+	</connection>
+	<connection group="up-bat-1" name="con_shieldgen_l_up-bat-1-1" tags="large shield hittable">
+		<offset>
+			<position x="-0.0" y="101.4109" z="627.8140999999999"/>
+			<quaternion qw="-3.2679489653813835e-07" qx="-0.0" qy="0.0" qz="-0.9999999999999466"/>
+		</offset>
+	</connection>
 	<connection group="down-bat-2" name="con_l_turret_down-bat-2-1" tags="turret large standard hittable">
 		<offset>
 			<position x="143.9635" y="-412.50039999999996" z="505.62940000000003"/>

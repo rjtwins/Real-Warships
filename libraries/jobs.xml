@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<diff>
+  <!-- ############################# -->
+  <!--        ARGON FEDERATION       -->
+  <!-- ############################# -->
+	<add sel="//jobs">
+	  <job id="argon_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="argon" tags="[factionlogic, military, battleship]" size="ship_xl"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="argon" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="argon" tags="[military, battleship]" size="ship_xl"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="argon" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="argon_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+	<!-- heavy destroyer -->
+	<add sel="//jobs">
+	  <job id="argon_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="argon" tags="[factionlogic, military, battleship]" size="ship_xl"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="argon" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="argon" tags="[military, destroyer]" size="ship_l"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="argon" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="argon_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+  <!-- ############################# -->
+  <!--    GODREALM OF THE PARANID    -->
+  <!-- ############################# -->
+  
+	<add sel="//jobs">  
+	  <job id="paranid_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="paranid" tags="[factionlogic, military, battleship]" size="ship_xl"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="paranid" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="paranid" tags="[military, battleship]" size="ship_xl"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="paranid" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="paranid_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+	<!-- heavy destroyer -->
+	<add sel="//jobs">
+	  <job id="paranid_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="paranid" tags="[factionlogic, military, battleship]" size="ship_l"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="paranid" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="paranid" tags="[military, destroyer]" size="ship_l"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="paranid" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="paranid_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+  <!-- ############################# -->
+  <!--   HOLY ORDER OF THE PONTIFEX  -->
+  <!-- ############################# -->
+  
+	<add sel="//jobs">  
+	  <job id="holyorder_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="holyorder" tags="[factionlogic, military, battleship]" size="ship_xl"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="holyorder" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="holyorder" tags="[military, battleship]" size="ship_xl"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="holyorder" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="holyorder_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+	<!-- Heavy Destroyer -->
+	<add sel="//jobs">
+	  <job id="holyorder_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="holyorder" tags="[factionlogic, military, battleship]" size="ship_l"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="holyorder" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="holyorder" tags="[military, destroyer]" size="ship_l"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="holyorder" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="holyorder_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+  <!-- ############################# -->
+  <!--        TELADI COMPANY         -->
+  <!-- ############################# -->
+  
+	<add sel="//jobs">  
+	  <job id="teladi_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="teladi" tags="[factionlogic, military, battleship]" size="ship_xl"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="[teladi, ministry]" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="teladi" tags="[military, battleship]" size="ship_xl"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="teladi" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="teladi_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+	<!-- Heavy Destroyer -->
+	<add sel="//jobs">
+	  <job id="teladi_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+		<modifiers commandeerable="false"/>
+		<orders>
+			<order order="Patrol" default="true">
+				<param name="range" value="class.sector"/>
+			</order>
+		</orders>
+		<category faction="teladi" tags="[factionlogic, military, battleship]" size="ship_l"/>
+		<quota galaxy="10" sector="1"/>
+		<location class="galaxy" macro="xu_ep2_universe_macro" faction="teladi" relation="self" comparison="exact"/>
+		<environment buildatshipyard="true"/>
+		<ship>
+			<select faction="teladi" tags="[military, destroyer]" size="ship_l"/>
+			<loadout>
+				<level min="1.0" max="1.0"/>
+			</loadout>
+			<owner exact="teladi" overridenpc="true"/>
+		</ship>
+		<subordinates>
+			<subordinate job="teladi_frigate_escort_m"/>
+		</subordinates>
+	  </job>
+	</add>
+</diff>
