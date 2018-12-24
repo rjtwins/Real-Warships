@@ -42,7 +42,7 @@
 	</add>
 	<add sel="//ships">
 		<ship id="antigone_destroyer_heavy_l" group="ant_destroyer_h_l">
-			<category tags="[military, battleship, mission]" faction="[antigon, scaleplate, hatikvah, alliance]" size="ship_l"/>
+			<category tags="[military, battleship, mission]" faction="[antigone, scaleplate, hatikvah, alliance]" size="ship_l"/>
 			<pilot>
 				<select faction="argon" tags="fighterpilot"/>
 			</pilot>
