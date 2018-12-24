@@ -5,7 +5,7 @@
   <!--        ARGON FEDERATION       -->
   <!-- ############################# -->
 	<add sel="//jobs">
-	  <job id="argon_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="argon_battleship_patrol_xl_sector_exp" name="{30303,101}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -30,7 +30,7 @@
 	</add>
 	<!-- heavy destroyer -->
 	<add sel="//jobs">
-	  <job id="argon_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="argon_destroyer_heavy_patrol_xl_sector_exp" name="{30303,107}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -58,7 +58,7 @@
   <!-- ############################# -->
   
 	<add sel="//jobs">  
-	  <job id="paranid_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="paranid_battleship_patrol_xl_sector_exp" name="{30303,103}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -83,7 +83,7 @@
 	</add>
 	<!-- heavy destroyer -->
 	<add sel="//jobs">
-	  <job id="paranid_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="paranid_destroyer_heavy_patrol_xl_sector_exp" name="{30303,109}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -111,7 +111,7 @@
   <!-- ############################# -->
   
 	<add sel="//jobs">  
-	  <job id="holyorder_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="holyorder_battleship_patrol_xl_sector_exp" name="{30303,103}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -136,7 +136,7 @@
 	</add>
 	<!-- Heavy Destroyer -->
 	<add sel="//jobs">
-	  <job id="holyorder_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="holyorder_destroyer_heavy_patrol_xl_sector_exp" name="{30303,109}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -164,7 +164,7 @@
   <!-- ############################# -->
   
 	<add sel="//jobs">  
-	  <job id="teladi_battleship_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="teladi_battleship_patrol_xl_sector_exp" name="{30303,105}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
@@ -189,7 +189,7 @@
 	</add>
 	<!-- Heavy Destroyer -->
 	<add sel="//jobs">
-	  <job id="teladi_destroyer_heavy_patrol_xl_sector_exp" name="{8181444,1001}" comment="each sector, expansion">
+	  <job id="teladi_destroyer_heavy_patrol_xl_sector_exp" name="{30303,111}" comment="each sector, expansion">
 		<modifiers commandeerable="false"/>
 		<orders>
 			<order order="Patrol" default="true">
